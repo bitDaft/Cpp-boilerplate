@@ -1,9 +1,9 @@
-/include/SFML/*
 /lib/*/*
+!/lib/*/README
 /bin/*/*
-/obj/*
-!/bin/*/assets
-/.vscode
+!/bin/*/README
+/obj/*/*
+!/obj/*/README
 *.o
 *.gch
 GPATH
