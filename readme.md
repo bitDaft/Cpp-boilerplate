@@ -1,6 +1,5 @@
-# Grid Selection
+# C++ Boilerplate
 
-This is an implementation of a grid system as used in games such as advance wars, into the breach, fire emblem etc.
+This repo contains the folder structures, and default files that i use to start a new project.
 
-This is to showcase on how such a grid system may be implemented using my custom engine Project-TE.
-
+Feel free to use it, and if you have any improvements that can be added to it, send me a PR.
